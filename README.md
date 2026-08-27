@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋 I'm Moiz Khan
+# 👋 Hi, I'm Moiz Khan
 
-### 💻 Full Stack MERN Developer
+### Full-Stack Software Engineer • Web Developer • Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Modern+Full+Stack+Applications;Turning+Ideas+Into+Real+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Building+Modern+Web+Applications;Next.js+%7C+TypeScript+%7C+Node.js;Turning+Ideas+Into+Scalable+Products" />
 
 </div>
 
@@ -14,16 +14,16 @@
 
 <div align="center">
 
+<a href="https://github.com/moizcodes3344">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:moiz28680@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/moizcodes3344">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -32,194 +32,90 @@
 
 ## 💻 Tech Stack
 
-<div align="center">
+### 🚀 Languages
 
-### 🚀 MERN Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+### ⚡ Frontend
 
-<br/><br/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
+</p>
 
-### 🎨 Frontend
+### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+</p>
 
-<br/><br/>
+### 🗄️ Database
 
-### ⚙️ Backend & Database
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis" />
+### 🛠️ Tools & DevOps
 
-<br/><br/>
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" />
-
-</div>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
-
-<div align="center">
+## 🧑‍💻 About Me
 
 ```javascript
 const moiz = {
     name: "Moiz Khan",
-    role: "Full Stack MERN Developer",
+    role: "Full-Stack Software Engineer",
 
-    stack: {
-        frontend: ["React", "JavaScript", "TypeScript"],
-        backend: ["Node.js", "Express.js"],
-        database: ["MongoDB", "PostgreSQL"]
-    },
+    education: "BS Software Engineering",
 
-    tools: [
-        "Git",
-        "GitHub",
-        "Docker",
-        "Postman",
-        "VS Code"
+    languages: [
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS"
+    ],
+
+    frontend: [
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "Redux"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "GraphQL"
+    ],
+
+    databases: [
+        "PostgreSQL",
+        "MongoDB",
+        "Prisma",
+        "Redis"
+    ],
+
+    architecture: [
+        "REST",
+        "Microservices",
+        "Serverless",
+        "Monorepo"
     ],
 
     interests: [
-        "Full Stack Development",
-        "REST APIs",
-        "Authentication",
-        "Database Design",
-        "Scalable Applications"
+        "System Design",
+        "Scalable Applications",
+        "Performance",
+        "Clean Architecture"
     ],
 
     currentlyLearning: "Advanced Software Engineering",
 
-    goal: "Build scalable products that solve real problems."
+    goal: "Build software that solves real problems."
 };
-```
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=moizcodes3344&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-height="180"
-/>
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizcodes3344&layout=compact&theme=tokyonight&hide_border=true"
-height="180"
-/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img 
-src="https://streak-stats.demolab.com?user=moizcodes3344&theme=tokyonight&hide_border=true"
-width="70%"
-/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=moizcodes3344&theme=tokyo-night&hide_border=true&area=true"
-width="95%"
-/>
-
-</div>
-
----
-
-## 🐍 My Contributions
-
-<div align="center">
-
-<img 
-src="https://raw.githubusercontent.com/moizcodes3344/moizcodes3344/output/github-contribution-grid-snake-dark.svg"
-alt="Contribution Snake"
-/>
-
-</div>
-
----
-
-## 🚀 What I'm Building
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### ⚛️ React
-
-Modern & responsive frontend applications
-
-</td>
-
-<td width="33%" align="center">
-
-### 🟢 Node.js
-
-Fast & scalable backend systems
-
-</td>
-
-<td width="33%" align="center">
-
-### 🍃 MongoDB
-
-Flexible & efficient data architecture
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-`MERN Stack` • `TypeScript` • `REST APIs` • `System Design` • `Database Architecture` • `Docker`
-
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Code. Build. Learn. Repeat. 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</div>
