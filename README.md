@@ -1,40 +1,43 @@
 <div align="center">
 
-# ⚡ Hi, I'm Moiz Khan
-### **Full-Stack Web Developer & Software Engineer**
+  <!-- Header Banner / Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Full-Stack+Web+Developer;Building+Scalable+Web+Apps;Next.js+%7C+Node.js+%7C+TypeScript;UI%2FUX+Craftsman" alt="Typing SVG" />
+  </a>
 
-I build high-performance web applications, scalable backends, and modern digital platforms.
+  <br />
 
-[💼 Portfolio](https://github.com/moizcodes3344) • [📩 Email](mailto:moiz28680@gmail.com) • [👔 LinkedIn](https://linkedin.com)
+  <!-- Social Badges -->
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:moiz28680@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/moizcodes3344">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
----
+  <br/><br/>
 
-### 🚀 **Tech Stack & Core Expertise**
-
-**Frontend Engineering**  
-`Next.js 15` • `React.js` • `TypeScript` • `Tailwind CSS` • `JavaScript (ES6+)` • `HTML5/CSS3`
-
-**Backend & Databases**  
-`Node.js` • `Express.js` • `PostgreSQL` • `REST APIs` • `GraphQL` • `Prisma ORM`
-
-**Tools & DevOps**  
-`Git & GitHub` • `Postman` • `Vercel` • `Docker` • `Figma`
-
----
-
-### 📊 **GitHub Activity & Impact**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moizcodes3344&show_icons=true&theme=dark&hide_border=true&title_color=61dafb&text_color=ffffff&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizcodes3344&layout=compact&theme=dark&hide_border=true&title_color=61dafb&text_color=ffffff&bg_color=0d1117" width="48%" />
-</p>
-
----
-
-### 🛠️ **Featured Work**
-
-- ⚡ **Full-Stack Web Platform** — Next.js, Node.js, and PostgreSQL integration.
-- 🎨 **Modern SaaS Dashboard** — Responsive UI built with React, TypeScript, and Tailwind CSS.
-- 🔗 **RESTful API Services** — Scalable backend architectures with Express and PostgreSQL.
+  <!-- Animated Header Line -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d600-a425-11eb-892c-1596201a096c.gif" width="100%" />
 
 </div>
+
+### ⚡ About Me
+
+```javascript
+const developer = {
+    name: "Moiz Khan",
+    role: "Full-Stack Software Engineer",
+    code: ["JavaScript", "TypeScript", "HTML/CSS"],
+    technologies: {
+        frontend: ["React", "Next.js 15", "TailwindCSS", "Redux"],
+        backend: ["Node.js", "Express.js", "REST APIs", "GraphQL"],
+        database: ["PostgreSQL", "MongoDB", "Prisma"],
+        tools: ["Git", "Docker", "Postman", "Vercel"]
+    },
+    architecture: ["Microservices", "Serverless", "Monorepo"],
+    currentFocus: "Building high-throughput scalable web solutions"
+};
